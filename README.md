@@ -4,7 +4,7 @@
 
 #### Libraries was used:
 
-* Gulp-typescript
+* Gulp-Typescript
 * Gulp-Babel
 
 #### Before 
